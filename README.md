@@ -43,7 +43,7 @@ Tic Tac Toe Math is an educational game that combines the classic Tic Tac Toe wi
 Contributions, issues, and feature requests are welcome. Feel free to check issues page if you want to contribute.
 
 ## Author
-Chris Hogan [Unity Consulting LLC]
+Chris Hogan [Unity Consulting LLC - studio@unitystl.com]
 
 ## License
 This project is open source and available under the [MIT License](LICENSE).
